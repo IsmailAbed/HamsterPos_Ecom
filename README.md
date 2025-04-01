@@ -73,9 +73,13 @@ ________________________________________
  6. Drag-and-drop reordering for products and categories
 
 ![image](https://github.com/user-attachments/assets/53791efd-a52e-4cca-91e0-a9d4409af1c0)
+
 ![image](https://github.com/user-attachments/assets/0724a831-8a84-419d-a28a-217cc2f534f3)
+
 ![image](https://github.com/user-attachments/assets/6873b2c1-c23c-4528-9b39-9ac04ed00dcb)
+
 ![image](https://github.com/user-attachments/assets/6dfdbc3f-65bc-4e3c-b8a2-ff122a8339f6)
+
 ![image](https://github.com/user-attachments/assets/dd5e4e31-f564-4627-a59e-9f31ae008dd9)
 
 
