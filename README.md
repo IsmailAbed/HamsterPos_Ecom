@@ -21,7 +21,7 @@ o	Option 2: Run from terminal:
 ________________________________________
 
 3.	The backend will be running at:
-👉 http://localhost:8080
+👉 http://localhost:8080 (you will redirect to http://localhost:8080/req/login) autoatically
 ________________________________________
 
 4.	Authentication routes:
