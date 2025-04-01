@@ -6,7 +6,7 @@ It features:
 •	Drag-and-drop product management
 •	A seamless shopping experience for users
 ________________________________________
-🚀 Getting Started
+Getting Started
 🔧 Backend (Spring Boot)
 1.	Navigate to the backend folder:
 
