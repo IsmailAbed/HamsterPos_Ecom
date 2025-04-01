@@ -5,6 +5,8 @@ It features:
 •	Role-based access control
 •	Drag-and-drop product management
 •	A seamless shopping experience for users
+•	Backend authentication/authorization (via Spring Security)
+•	SSR in frontend
 ________________________________________
 Getting Started
 🔧 Backend (Spring Boot)
